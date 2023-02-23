@@ -2,9 +2,10 @@
 
 ### Shell
 
-Here is a video series on shell scripting by Clickate Academy:
+Here are some video resources to help you learn more about using the shell:
 
-- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=o4xV4OIQZoA&list=PLS1QulWo1RIYt4SaPpmneIhxtNzE_bNQx) - A tutorial series that covers the basics of shell scripting, including loops, conditionals, and functions.
+- [Shell Init Variables and Expansions](https://youtu.be/Dt5rXXt3-ag) - A video tutorial by Clickate Academy that explains how to use and manipulate environment variables and expansions in shell scripting.
+- [Shell I/O Redirections](https://youtu.be/yxY2b3n9qIE) - A video tutorial by Clickate Academy that explains how to redirect input and output in shell scripting.
 
 ### Python
 
