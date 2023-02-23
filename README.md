@@ -10,7 +10,7 @@ We welcome contributions from all members of the ALU community! If you would lik
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
 ## Contents
