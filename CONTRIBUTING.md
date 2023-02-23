@@ -1,10 +1,27 @@
-# Open_lib
-The Open Lib is an open library of links to Books and resources that people interested in Programming can refer to to get links to courses and Videos.
+# Contributing to ALU Software Engineering Resources - Sept2022
 
-You are free to add any link or videos; remember, this is a crowdsource repository, and links are open to anyone interested in sharing amazing links for people to reach out.
+Thank you for your interest in contributing to the ALU Software Engineering Resources repository for September 2022! We welcome contributions from all members of the ALU community who are interested in helping to improve this resource.
 
+## How to Contribute
 
-### Instructions on how to get started 
+To contribute to this repository, you can follow these general steps:
 
-- In order to Contribute to the repo, please look out for the section in the repo that matched your area of interest. then add the links or book link to that. If the area does not  exist, please create the new section and then add your work. 
-- One philosophy used in this list while contributing is that link should directly point to videos for viewing/downloading than registration and waiting for the next session. If videos are directly accessible through the platform/YouTube or any other source, please use the direct source.
+1. Fork the repository by clicking the "Fork" button at the top of the repository's page.
+2. Clone your forked repository to your local machine.
+3. Create a new branch to work on. You can do this with the following command: `git checkout -b my-new-branch`.
+4. Make your changes to the repository. Be sure to follow the existing formatting and style guidelines as much as possible.
+5. Commit your changes with a clear and descriptive commit message.
+6. Push your changes to your forked repository.
+7. Open a pull request (PR) to the original repository, explaining what changes you've made and why they're important.
+
+## Guidelines for Contributions
+
+To ensure that this repository remains a useful and relevant resource for ALU students studying software engineering, we ask that contributors follow these guidelines when making contributions:
+
+- All contributions should be relevant to software engineering concepts that are covered in the ALU curriculum.
+- Any resources added should be high-quality, well-written, and free of errors.
+- Contributors should follow existing formatting and style guidelines as much as possible to maintain consistency across the repository.
+- Contributions should be respectful and professional.
+
+Thank you for your contributions to this project!
+
