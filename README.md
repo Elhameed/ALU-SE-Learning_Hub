@@ -6,7 +6,7 @@ The collection includes a range of resources, from introductory guides to more a
 
 ## Contributing
 
-Contributions are welcomed from all members of the ALU community! If you would like to contribute to this repository, please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
+Contributions are welcomed from all members of the ALU community! If you are interested in contributing to this repository, please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
