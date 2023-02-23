@@ -1,4 +1,4 @@
-# Contributing to ALU Software Engineering Resources - Sept2022
+# Contributing to ALU Software Engineering Learning Hub
 
 Thank you for your interest in contributing to the ALU Software Engineering Resources repository for September 2022! We welcome contributions from all members of the ALU community who are interested in helping to improve this resource.
 
@@ -8,11 +8,10 @@ To contribute to this repository, you can follow these general steps:
 
 1. Fork the repository by clicking the "Fork" button at the top of the repository's page.
 2. Clone your forked repository to your local machine.
-3. Create a new branch to work on. You can do this with the following command: `git checkout -b my-new-branch`.
-4. Make your changes to the repository. Be sure to follow the existing formatting and style guidelines as much as possible.
-5. Commit your changes with a clear and descriptive commit message.
-6. Push your changes to your forked repository.
-7. Open a pull request (PR) to the original repository, explaining what changes you've made and why they're important.
+3. Make your changes to the repository. Be sure to follow the existing formatting and style guidelines as much as possible.
+4. Commit your changes with a clear and descriptive commit message.
+5. Push your changes to your forked repository.
+6. Open a pull request (PR) to the original repository, explaining what changes you've made and why they're important.
 
 ## Guidelines for Contributions
 
