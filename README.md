@@ -1,4 +1,4 @@
-# ALU Software Engineering Resources
+# ALU Software Engineering Learning Hub
 
 Welcome to the ALU Software Engineering Learning Hub repository! This repository contains a curated list of resources that is directed at helping those of us studying Software Engineering at the African Leadership University to better understand the concepts.
 
