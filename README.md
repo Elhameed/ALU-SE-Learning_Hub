@@ -16,10 +16,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contents
 
 - [Getting Started](getting-started.md)
-- [Introductory Topics](introductory-topics.md)
-- [Advanced Topics](advanced-topics.md)
 - [Tutorials](tutorials.md)
 - [Videos](videos.md)
 - [Articles](articles.md)
+- [Others](others.md)
 
 Check back regularly for updates and new resources!
